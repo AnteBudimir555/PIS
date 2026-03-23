@@ -8,6 +8,7 @@ namespace ProjektPis1vjezba
         public void IspisiPoruku()
         {
             Console.WriteLine("Poruka iz nove klase");
+            //Evo ja san rješio
         }
 
     }
