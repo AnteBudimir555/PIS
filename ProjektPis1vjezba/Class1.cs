@@ -8,5 +8,6 @@ namespace ProjektPis1vjezba
 {
     internal class Class1
     {
+        //ovaj komentar je sa githuba a druga promjena je commitana na lokalnom
     }
 }
